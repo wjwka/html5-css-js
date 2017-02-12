@@ -1,18 +1,3 @@
-/*this part is about ....*/
-.div-a {
-	width: 100%;
-
-	border: 1px solid #0099ff;
-	text-align: center;
-	float: left;
-}
-
-.div-b {
-	float: left;
-	width: 800px;
-	border: 0px solid ;
-} 
-
 /*this part is about the text*/
 #title1 {
 	color: #0099ff;
@@ -74,13 +59,3 @@
     background: #0099ff; 
     border-radius: 50px; 
 }
-/*this part is about the */
-
-.rwdpart {
-	float: left;
-	margin: 5px;
-	padding: 15px;
-	width: 300px;
-	height: 300px;
-	border: 1px solid black;
-} 
